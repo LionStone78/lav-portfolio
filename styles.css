@@ -57,6 +57,7 @@ a{text-decoration:none;}
   .burger{display:flex;}
   .two-col{grid-template-columns:1fr;}
 
+/* ----- PROFILE PHOTO ----- */
 .profile{
   width:180px;
   height:180px;
