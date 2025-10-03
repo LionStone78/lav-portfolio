@@ -59,12 +59,13 @@ a{text-decoration:none;}
 
 /* ----- PROFILE PHOTO ----- */
 .profile{
-  width:90px;
-  height:90px;
+  width:120px;
+  height:120px;
   object-fit:cover;
   border-radius:50%;
   border:4px solid var(--primary);
   margin-bottom:20px;
   box-shadow:0 8px 20px rgba(0,0,0,.15);
 }
+
 
